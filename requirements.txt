@@ -3,4 +3,5 @@ openai
 python-dotenv
 rapidfuzz
 paho-mqtt
+gunicorn
 mysql-connector
